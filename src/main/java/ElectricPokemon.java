@@ -14,6 +14,7 @@ public class ElectricPokemon extends Pokemon {
      * The probability that we execute the specialty attack.
      */
     public double specialtyProbability;
+    //
 
     /**
      * Our ElectricPokemon constructor.
